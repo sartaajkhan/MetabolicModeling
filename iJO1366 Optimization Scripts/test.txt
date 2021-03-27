@@ -1,1 +1,1 @@
-a
+The iJO1366 metabolic model for E.coli was modified to introduce the production of non-native metabolites which are useful in the engineering industry. Each C_X file represents the number of carbon atoms on each compound produced.
